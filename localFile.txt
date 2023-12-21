@@ -1,1 +1,2 @@
 This is file created in local branch.
+Now I'm making changes in the file to pull it into the local folder.
